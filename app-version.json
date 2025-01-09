@@ -2,6 +2,8 @@
     "latest_version": "1.2.0",
     "supported_version": "1.0.0",
     "force_update": false,
+    "ios_update_url": "https://apps.apple.com/us/app/mont%C3%B8r-app/id6737612858",
+    "android_update_url": "https://drive.google.com/file/d/1_xNenVDBxWjCYZKltltR5J6mi6ggQYca/view?usp=drive_link",
     "available_version": [
         "1.0.0",
         "1.0.1",
